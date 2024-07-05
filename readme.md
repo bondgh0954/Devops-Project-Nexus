@@ -16,6 +16,8 @@ Technologies used:
 Project Description:
   Install and configure Nexus from scratch on a cloud server
   Create new user on nexus with relevant permissions
+
+
   
 
   Java Gradle Project: Build jar and upload to nexus
